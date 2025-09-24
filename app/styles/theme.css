@@ -5,7 +5,7 @@
   --oui-color-primary: 255 105 180;
   --oui-color-primary-light: 255 150 200;
   --oui-color-primary-darken: 255 50 150;
-  --oui-color-primary-contrast: 255 255 255;
+  --oui-color-primary-contrast: 242 2 178;
 
   --oui-color-link: 255 105 180;
   --oui-color-link-light: 255 150 200;
@@ -29,22 +29,22 @@
   --oui-color-warning-darken: 255 190 50;
   --oui-color-warning-contrast: 255 255 255;
 
-  --oui-color-fill: 0 0 0;
-  --oui-color-fill-active: 5 5 5;
+  --oui-color-fill: 174 0 85;
+  --oui-color-fill-active: 174 0 85;
 
-  --oui-color-base-1: 35 0 15;
-  --oui-color-base-2: 30 0 10;
-  --oui-color-base-3: 25 0 5;
-  --oui-color-base-4: 20 0 0;
-  --oui-color-base-5: 15 0 0;
-  --oui-color-base-6: 10 0 0;
-  --oui-color-base-7: 51 46 66;
-  --oui-color-base-8: 9 0 25;
-  --oui-color-base-9: 14 13 18;
-  --oui-color-base-10: 0 0 0;
+  --oui-color-base-1: 25 0 20;
+  --oui-color-base-2: 20 0 15;
+  --oui-color-base-3: 15 0 10;
+  --oui-color-base-4: 10 0 5;
+  --oui-color-base-5: 5 0 0;
+  --oui-color-base-6: 0 0 0;
+  --oui-color-base-7: 40 0 30;
+  --oui-color-base-8: 8 0 15;
+  --oui-color-base-9: 3 0 8;
+  --oui-color-base-10: 0 0 5;
 
-  --oui-color-base-foreground: 255 255 255;
-  --oui-color-line: 255 255 255;
+  --oui-color-base-foreground: 255 50 150;
+  --oui-color-line: 255 50 150;
 
   --oui-color-trading-loss: 245 97 139;
   --oui-color-trading-loss-contrast: 255 255 255;
