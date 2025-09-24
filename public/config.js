@@ -7,7 +7,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_TESTNET_CHAINS": "97,901901901,84532,421614,11124",
   "VITE_DEFAULT_CHAIN": "",
   "VITE_PRIVY_APP_ID": "cmfx0mm3e001nl80d2kis43zx",
-  "VITE_PRIVY_LOGIN_METHODS": "email",
+  "VITE_PRIVY_LOGIN_METHODS": "email,passkey",
   "VITE_PRIVY_TERMS_OF_USE": "",
   "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
@@ -34,5 +34,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "5",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#a424f9\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#a523e1\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#34384b\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#9924f9\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#a523e1\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#34384b\"}"
 };
